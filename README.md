@@ -6,7 +6,7 @@ Just a basic tutorial to myself of using github and git
    
    **Add Repositories from Github**
    
-1. To clone directories from Github use : **git clone <linkofrepo>**
+1. To clone directories from Github use : **git clone <link-of-repo>**
 2. Use cd command to change repos(ls to list all github repo items)
 3. Get repo status using **git status** command
 
@@ -25,3 +25,5 @@ To commit on git use **git commit -m "some message"**
 
    **After modifying everything we push our new work on github**
 For that we use **git push origin main** command
+
+<b>This command is saved from vscode to github using add, commit and  git push origin main</b>
